@@ -22,8 +22,10 @@
 ```run ApracheJMeter.jar from the folder or om cmd prompt > Jmeter```
 ```open the project file```
 
+
 ## Pre-requisities
-** You must have installed PostMan in your system/local device**
+** Add Environment JAVA_HOME with values Java's location path(without bin)**
+** Add Environment JMETER with values JMeter's location path(without bin)**
 
 
 
