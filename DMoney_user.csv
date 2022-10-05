@@ -1,0 +1,8 @@
+1664985950578,505,Login with valid credentials,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,501,0,475
+1664985951342,5763,User list,200,OK,Thread Group 1-1,text,true,,1813663,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,5416,0,0
+1664985957138,29,Create User,201,Created,Thread Group 1-1,text,true,,583,604,1,1,http://dmoney.professionaltrainingbd.com/user/create,29,0,0
+1664985957168,13,Search user by id,200,OK,Thread Group 1-1,text,true,,534,422,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=10190,12,0,0
+1664985957181,16,Search user by phone number,200,OK,Thread Group 1-1,text,true,,546,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01501707854,16,0,0
+1664985957197,7,Search user by email,200,OK,Thread Group 1-1,text,true,,534,437,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user1685@test.com,7,0,0
+1664985957205,15,Update user information,200,OK,Thread Group 1-1,text,true,,497,623,1,1,http://dmoney.professionaltrainingbd.com/user/update/10190,15,0,0
+1664985957221,297,Delete user,200,OK,Thread Group 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10190,297,0,0
