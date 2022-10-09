@@ -2,7 +2,6 @@
 
 ## technlogies and tools used
 - JMeter
-- PostMan
 - GitBash
 
 ## Scenario of this project
